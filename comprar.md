@@ -43,17 +43,6 @@ Querendo provar um cafezin bom ou procurando uma cafeteria pra conhecer, essa li
 *TODO:* 
   - delivery SP vs entrega Brasil
 
-### Onde ir?  
-
-#### São Paulo
-
-*TODO*
-
-### Cursos
-
-- Coffee Lab
-- Um Coffee Co.
-- The Little Coffee Shop
 
 ### Bom pra comprar acessórios no precin
 
@@ -63,5 +52,3 @@ Querendo provar um cafezin bom ou procurando uma cafeteria pra conhecer, essa li
 
 - Sao Paulo Coffee Fest
 - Coffee Week Brasil
-
-**Contribua também ☕️**

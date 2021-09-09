@@ -23,18 +23,21 @@
       {% endif %}
     </header>
 
-    <main id="content" class="main-content xablau" role="main">
+    <main id="content" class="main-content" role="main">
+        <div class="xablau">
+            <a href="/comprar" class="btn btn-purple">Onde comprar?</a>
+            <a href="/ir" class="btn btn-purple">Onde ir?</a>
+            <a href="/aprender" class="btn btn-purple">Onde aprender?</a>
+        </div>
+        
+        {{ content }}
 
-      {{ content }}
-      <a href="{{ site.github.repository_url }}/cafezin" class="btn btn-purple">Onde comprar?</a>
-      <a href="./cafezin" class="btn btn-purple">Onde ir?</a>
-      
-      <footer class="site-footer">
+        <footer class="site-footer">
         {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> mantido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> mantido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
         <span class="site-footer-credits">Página gerada utilizando <a href="https://pages.github.com">GitHub Pages</a> & <a href="https://jekyllrb.com/">Jekyll</a>.</span>
-      </footer>
+        </footer>
     </main>
   </body>
 </html>
