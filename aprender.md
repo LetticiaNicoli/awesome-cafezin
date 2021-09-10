@@ -1,13 +1,22 @@
 ---
-title: Another page
-description: This is just another page
+title: Onde aprender?
+description: Querendo aprender mais sobre o assunto, essa lista é pra você :)
 ---
 
-### Cursos
+### ☕️ Cursos
 
+#### **Pagos** 💰
 - Coffee Lab
 - Um Coffee Co.
 - The Little Coffee Shop
 
+#### **Youtube**
+- James Holffman
 
-**Contribua também ☕️**
+#### **Tik Tok**
+- 
+
+#### **Instagram**
+- 
+
+

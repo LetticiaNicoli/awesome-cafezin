@@ -1,17 +1,11 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Onde ir?  
+description: Querendo conhecer novos lugares para tomar aquele cafezin, essa lista é pra você :)
 ---
 
-### Onde ir?  
+### ☕️ Onde ir?  
 
-#### São Paulo
-
-*TODO*
-
-### Cursos
-
-- Coffee Lab
-- Um Coffee Co.
-- The Little Coffee Shop
+#### **São Paulo**
+Dá uma olhadinha aqui:
+[https://goo.gl/maps/qBA1nYL5FbnmAAWG6](https://goo.gl/maps/qBA1nYL5FbnmAAWG6)
