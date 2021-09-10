@@ -1,5 +1,30 @@
 ---
 ---
 
-$section-headings-color: #6b57ed;
+// Headers 
+$header-bg-color: #6b57ed;
+$header-bg-color-secondary: #ED6455;
+
+// Text
+$section-headings-color: #6F5CBA;
+$body-text-color: #2E3847;
+$body-link-color: #DD636C;
+
+//#755138;
+//#FFC977;
 @import "{{ site.theme }}";
+
+.btn-purple {
+    color: #755138;
+    border-color: #FFC977;
+    text-align: center;
+    
+    &:hover {
+      color: #755138;
+      background-color: rgba(255, 201, 119, 0.2);
+    }
+}
+
+.xablau {
+    text-align: center;
+}
