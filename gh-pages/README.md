@@ -4,6 +4,8 @@ title: Onde encontrar?
 description: Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você :)
 ---
 
+# Awesome Cafezin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ### ☕️ Onde encontrar?
 
 #### **Entrega Brasil**
