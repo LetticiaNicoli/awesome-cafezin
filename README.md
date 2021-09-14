@@ -1,2 +1,4 @@
 have fun!   
-**Contribua também ☕️**
+`bundle exec jekyll serve`
+
+POC Github Pages + Jekyll :)
