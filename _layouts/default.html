@@ -16,8 +16,8 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }} ☕️ </h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name">{{ page.title | default: site.github.repository_name }} ☕️ </h1>
+      <h2 class="project-tagline">Querendo provar um cafezin bom, essa lista é para você.</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -25,12 +25,12 @@
 
     <main id="content" class="main-content" role="main">
         <div class="xablau">
-            <a href="comprar" class="btn btn-purple">Onde comprar?</a>
-            <a href="ir" class="btn btn-purple">Onde ir?</a>
-            <a href="aprender" class="btn btn-purple">Onde aprender?</a>
+            <a href="#onde-comprar-cafés-e-acessórios" class="btn btn-purple">Onde comprar?</a>
+            <a href="#lugares-para-conhecer-no-brasil" class="btn btn-purple">Onde ir?</a>
+            <a href="#aprender-mais-sobre-o-assunto" class="btn btn-purple">Onde aprender?</a>
         </div>
         
-        {{ content }}
+        {{content}}
 
         <footer class="site-footer">
         {% if site.github.is_project_page %}
