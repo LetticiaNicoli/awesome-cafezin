@@ -1,4 +1,4 @@
-# Awesome Cafezin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome cafezin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curadoria para você que quer tomar um bom cafezin e aprender mais sobre esse mundo ☕️ 
 ---
