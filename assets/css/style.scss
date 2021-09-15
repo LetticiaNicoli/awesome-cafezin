@@ -12,7 +12,7 @@ $body-link-color: #DD636C;
 
 @import "{{ site.theme }}";
 
-.btn-purple {
+.btn-yellow {
     color: #755138;
     border-color: #FFC977;
     text-align: center;
@@ -23,6 +23,6 @@ $body-link-color: #DD636C;
     }
 }
 
-.xablau {
-    text-align: center;
+.main-content h2 {
+  color: #755138;
 }
