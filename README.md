@@ -1,6 +1,6 @@
-<span style="display:flex; align-items: center; justify-content: center">
+<p align="center">
     <img width="400" height="auto" src="awcafe.svg" alt="Awesome Cafezin"/>
-</span>
+</p>
 
 # awesome cafezin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
