@@ -1,4 +1,4 @@
-<span align="center">
+<span style="display:flex; align-items: center; justify-content: center">
     <img width="400" height="auto" src="awcafe.svg" alt="Awesome Cafezin"/>
 </span>
 
