@@ -23,6 +23,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Cafeína Records | [Site](https://cafeinarecords.com/collections/loja-cafeina-records) | SP | ❌ |
 | Café Di Preto | [Instagram](https://www.instagram.com/cafedipreto/) | 🇧🇷 | ❌ |
 | Café e Cold Bixo | [Site](https://www.cafeecoldbixo.com.br/) | 🇧🇷 | ✅ |
+| Café Ninho da Águia | [Site](https://www.cafeninhodaaguia.com.br/) | 🇧🇷 | ❌ |
 | Café por Elas | [Site](https://cafeporelas.com.br/) | 🇧🇷 | ❌ |
 | Café Torra Clara | [Instagram](https://www.instagram.com/cafe_torra_clara) | SP | ❌ |
 | Catarina Coffee and Love | [Site](https://www.catarinacoffeeandlove.com/) | 🇧🇷 | ✅ |
