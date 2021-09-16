@@ -1,3 +1,7 @@
+<span align="center">
+    <img width="400" height="auto" src="awcafe.svg" alt="Awesome Cafezin"/>
+</span>
+
 # awesome cafezin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Lista ✨incrível✨ para você que quer tomar um bom cafezin em casa, conhecer cafeterias por aí, aprender sobre o assunto e ter novas experiências ☕️ 
@@ -10,6 +14,7 @@
 - [Contribua](#Contribua)
 
 ## Onde comprar cafés e/ou acessórios  
+
 Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você:  
 
 |  	| Link    	| Entrega    	| Acessórios para preparo? |
@@ -21,7 +26,8 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Bogo Café | [Site](https://bogo.cafe/) | SP | ❌ |
 | Borsoi Café | [Instagram](https://www.instagram.com/borsoicafe/) | PE | ✅ |
 | Cafeína Records | [Site](https://cafeinarecords.com/collections/loja-cafeina-records) | SP | ❌ |
-| Café Di Preto | [Instagram](https://www.instagram.com/cafedipreto/) | 🇧🇷 | ❌ |
+| Café Di Preto | [Instagram](https://www.instagram.com/cafedipreto/) | 🇧🇷 | ❌ | 
+| Café Ducoin | [Site](https://cafeducoin.com.br/) | 🇧🇷 | ✅ | 
 | Café e Cold Bixo | [Site](https://www.cafeecoldbixo.com.br/) | 🇧🇷 | ✅ |
 | Café por Elas | [Site](https://cafeporelas.com.br/) | 🇧🇷 | ❌ |
 | Café Torra Clara | [Instagram](https://www.instagram.com/cafe_torra_clara) | SP | ❌ |
@@ -34,6 +40,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Grab a Bag! | [Instagram](https://instagram.com/grababag_coffee) | SP | ❌ |
 | Isso é Café | [Instagram](https://www.instagram.com/issoecafe) | SP | ❌ |
 | KOF - King of The Fork | [Site](https://www.kingofthefork.com.br/) | SP | ❌ |
+| MIM Cafeteria | [Instagram](https://www.instagram.com/mimcafeteria/) | PR | ❌ |
 | Moka Clube | [Site](https://www.mokaclube.com.br/) | 🇧🇷 | ✅ |
 | Mono Café | [Site](https://cafemono.com.br/) | SP | ❌ |
 | O Cabral Café | [Site](https://ocabral.com/) | 🇧🇷 | ✅ |
@@ -81,6 +88,7 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 
 ### **Instagram**
 - [@boramum](https://instagram.com/boramum)
+- [@fabianobarista](https://www.instagram.com/fabianobarista/)
 - [@mariamion](https://instagram.com/mariamion)
 - [@naxicrinha](https://www.instagram.com/naxicrinha)
 - [@simonedepaulabr](https://instagram.com/simonedepaulabr)
