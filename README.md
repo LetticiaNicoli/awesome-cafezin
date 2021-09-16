@@ -37,7 +37,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Moka Clube | [Site](https://www.mokaclube.com.br/) | 🇧🇷 | ✅ |
 | Mono Café | [Site](https://cafemono.com.br/) | SP | ❌ |
 | O Cabral Café | [Site](https://ocabral.com/) | 🇧🇷 | ✅ |
-| OOP Café | [Site](https://oop.cafe/loja/) | MG | ✅ |
+| OOP Café | [Site](https://oop.cafe/loja/) | 🇧🇷 | ✅ |
 | Pato Rei | [Instagram](https://www.instagram.com/patoreisp/) | SP | ❌ |
 | Pura Caffeina | [Site](https://www.puracaffeina.com.br/) | 🇧🇷 | ❌ |
 | Preciosa Curadoria | [Instagram](https://www.instagram.com/preciosacuradoria/) | SP | ❌ |
