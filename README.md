@@ -55,6 +55,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Tocaya | [Site](https://tocaya.com.br/cafes-e-afins/) | 🇧🇷 | ❌ |
 | Um Coffee Co. | [Site](https://www.umcoffeeco.com.br/) | 🇧🇷 | ✅ |
 | Urbe Café | [Site](https://www.urbecafe.com.br/) | 🇧🇷 | ✅ |
+| Veroo | [Site](https://veroo.com.br/) | 🇧🇷 | ✅ |
 | Wolff Café | [Site](https://www.wolffcafe.com.br/) | 🇧🇷 | ❌ |
 | Zel Café | [Site](https://zelcafe.com.br/loja/) | SP/MG | ❌ |
 
