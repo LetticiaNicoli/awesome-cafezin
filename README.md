@@ -57,7 +57,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Urbe Café | [Site](https://www.urbecafe.com.br/) | 🇧🇷 | ✅ |
 | Wolff Café | [Site](https://www.wolffcafe.com.br/) | 🇧🇷 | ❌ |
 | Zel Café | [Site](https://zelcafe.com.br/loja/) | SP/MG | ❌ |
-
+| 89 Coffee Station | [Site](https://89coffeestation.com.br/) | 🇧🇷 | SP | ❌ |
 **Sazonais**
 
 - [São Paulo Coffee Fest](https://saopaulocoffeefest.com.br/)
