@@ -49,6 +49,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Selen Coffee | [Site](https://selencafe.com.br/) | 🇧🇷 | ❌ |
 | Sensory Coffee | [Instagram](https://www.instagram.com/sensorycoffeeroasters/) | SP | ❌ |
 | Siriema Coffee | [Site](https://siriemacoffeeroasters.com/loja/) | SP | ❌ |
+| Social Café Clube | [Site](https://loja.socialcafeclube.com.br/) | 🇧🇷 | ❌ |
 | Sofá Café | [Site](https://www.sofacafe.com.br/shop) | SP | ❌ |
 | Soul Café | [Instagram](https://www.instagram.com/soulcafesp/) | SP | ✅ |
 | Tazza Café | [Instagram](https://www.instagram.com/tazzacafesp/) | SP | ❌ |
