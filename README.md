@@ -34,6 +34,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Grab a Bag! | [Instagram](https://instagram.com/grababag_coffee) | SP | ❌ |
 | Isso é Café | [Instagram](https://www.instagram.com/issoecafe) | SP | ❌ |
 | KOF - King of The Fork | [Site](https://www.kingofthefork.com.br/) | SP | ❌ |
+| Lucca Cafés Especiais | [Site](https://luccacafesespeciais.com.br/) | 🇧🇷 | ❌ |
 | Moka Clube | [Site](https://www.mokaclube.com.br/) | 🇧🇷 | ✅ |
 | Mono Café | [Site](https://cafemono.com.br/) | SP | ❌ |
 | O Cabral Café | [Site](https://ocabral.com/) | 🇧🇷 | ✅ |
