@@ -95,6 +95,7 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - [@cafeparaviagem](https://vm.tiktok.com/ZMRxdxmgg/)
 - [@coffeeandjoy](https://vm.tiktok.com/ZMRxdyBe3/)
 - [@oleodeoliva](https://vm.tiktok.com/ZMRxdxfT7/)
+- [@baristamarcelo](https://vm.tiktok.com/ZMRCeQjUS/)
 
 ### **Twitter**
 - [@cafedipreto](https://twitter.com/cafedipreto)
