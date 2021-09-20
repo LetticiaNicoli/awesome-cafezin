@@ -41,6 +41,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Pato Rei | [Instagram](https://www.instagram.com/patoreisp/) | SP | ❌ |
 | Pura Caffeina | [Site](https://www.puracaffeina.com.br/) | 🇧🇷 | ❌ |
 | Preciosa Curadoria | [Instagram](https://www.instagram.com/preciosacuradoria/) | SP | ❌ |
+| Roast Cafés | [Site](https://roastcafes.com/) | 🇧🇷 | ❌ |
 | Roots Café | [Site](https://www.rootsacaicafe.com.br/shop/) | MT | ✅ |
 | Seleção do Erick | [Site](https://www.selecaodoerick.com/) | 🇧🇷 | ✅ |
 | Selen Coffee | [Site](https://selencafe.com.br/) | 🇧🇷 | ❌ |
