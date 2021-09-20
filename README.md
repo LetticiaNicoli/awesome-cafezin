@@ -76,11 +76,13 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 ### **Cursos**
 - 💰 [Oficina do Barista](https://www.oficinadobarista.com.br/)
 - 💰 [Coffee Lab](http://loja.coffeelab.com.br/escola-ct-8cf3c)
+- 💰 [Senac Formação de Barista](https://www.sp.senac.br/cursos-livres/curso-de-formacao-de-barista--preparo-e-servico-de-cafe)
 - 💰 [Um Coffee Co.](https://www.umcoffeeco.com.br/cursos)
 - 💰 [Wolff Café](https://www.wolffcafe.com.br/cursos)
 
 ### **Instagram**
 - [@boramum](https://instagram.com/boramum)
+- [@diariodeumcoffeelover](https://www.instagram.com/diariodeumcoffeelover)
 - [@mariamion](https://instagram.com/mariamion)
 - [@naxicrinha](https://www.instagram.com/naxicrinha)
 - [@simonedepaulabr](https://instagram.com/simonedepaulabr)
