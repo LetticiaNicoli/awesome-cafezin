@@ -29,6 +29,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Café Di Preto | [Instagram](https://www.instagram.com/cafedipreto/) | 🇧🇷 | ❌ | 
 | Café Ducoin | [Site](https://cafeducoin.com.br/) | 🇧🇷 | ✅ | 
 | Café e Cold Bixo | [Site](https://www.cafeecoldbixo.com.br/) | 🇧🇷 | ✅ |
+| Café Ninho da Águia | [Site](https://www.cafeninhodaaguia.com.br/) | 🇧🇷 | ❌ |
 | Café por Elas | [Site](https://cafeporelas.com.br/) | 🇧🇷 | ❌ |
 | Café Torra Clara | [Instagram](https://www.instagram.com/cafe_torra_clara) | SP | ❌ |
 | Catarina Coffee and Love | [Site](https://www.catarinacoffeeandlove.com/) | 🇧🇷 | ✅ |
@@ -40,14 +41,16 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Grab a Bag! | [Instagram](https://instagram.com/grababag_coffee) | SP | ❌ |
 | Isso é Café | [Instagram](https://www.instagram.com/issoecafe) | SP | ❌ |
 | KOF - King of The Fork | [Site](https://www.kingofthefork.com.br/) | SP | ❌ |
+| Lucca Cafés Especiais | [Site](https://luccacafesespeciais.com.br/) | 🇧🇷 | ❌ |
 | MIM Cafeteria | [Instagram](https://www.instagram.com/mimcafeteria/) | PR | ❌ |
 | Moka Clube | [Site](https://www.mokaclube.com.br/) | 🇧🇷 | ✅ |
 | Mono Café | [Site](https://cafemono.com.br/) | SP | ❌ |
 | O Cabral Café | [Site](https://ocabral.com/) | 🇧🇷 | ✅ |
-| OOP Café | [Site](https://oop.cafe/loja/) | MG | ✅ |
+| OOP Café | [Site](https://oop.cafe/loja/) | 🇧🇷 | ✅ |
 | Pato Rei | [Instagram](https://www.instagram.com/patoreisp/) | SP | ❌ |
 | Pura Caffeina | [Site](https://www.puracaffeina.com.br/) | 🇧🇷 | ❌ |
 | Preciosa Curadoria | [Instagram](https://www.instagram.com/preciosacuradoria/) | SP | ❌ |
+| Roast Cafés | [Site](https://roastcafes.com/) | 🇧🇷 | ❌ |
 | Roots Café | [Site](https://www.rootsacaicafe.com.br/shop/) | MT | ✅ |
 | Seleção do Erick | [Site](https://www.selecaodoerick.com/) | 🇧🇷 | ✅ |
 | Selen Coffee | [Site](https://selencafe.com.br/) | 🇧🇷 | ❌ |
@@ -62,6 +65,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Tocaya | [Site](https://tocaya.com.br/cafes-e-afins/) | 🇧🇷 | ❌ |
 | Um Coffee Co. | [Site](https://www.umcoffeeco.com.br/) | 🇧🇷 | ✅ |
 | Urbe Café | [Site](https://www.urbecafe.com.br/) | 🇧🇷 | ✅ |
+| Veroo | [Site](https://veroo.com.br/) | 🇧🇷 | ✅ |
 | Wolff Café | [Site](https://www.wolffcafe.com.br/) | 🇧🇷 | ❌ |
 | Zel Café | [Site](https://zelcafe.com.br/loja/) | SP/MG | ❌ |
 
@@ -83,11 +87,13 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 ### **Cursos**
 - 💰 [Oficina do Barista](https://www.oficinadobarista.com.br/)
 - 💰 [Coffee Lab](http://loja.coffeelab.com.br/escola-ct-8cf3c)
+- 💰 [Senac Formação de Barista](https://www.sp.senac.br/cursos-livres/curso-de-formacao-de-barista--preparo-e-servico-de-cafe)
 - 💰 [Um Coffee Co.](https://www.umcoffeeco.com.br/cursos)
 - 💰 [Wolff Café](https://www.wolffcafe.com.br/cursos)
 
 ### **Instagram**
 - [@boramum](https://instagram.com/boramum)
+- [@diariodeumcoffeelover](https://www.instagram.com/diariodeumcoffeelover)
 - [@fabianobarista](https://www.instagram.com/fabianobarista/)
 - [@mariamion](https://instagram.com/mariamion)
 - [@naxicrinha](https://www.instagram.com/naxicrinha)
@@ -103,6 +109,7 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - [@cafeparaviagem](https://vm.tiktok.com/ZMRxdxmgg/)
 - [@coffeeandjoy](https://vm.tiktok.com/ZMRxdyBe3/)
 - [@oleodeoliva](https://vm.tiktok.com/ZMRxdxfT7/)
+- [@baristamarcelo](https://vm.tiktok.com/ZMRCeQjUS/)
 
 ### **Twitter**
 - [@cafedipreto](https://twitter.com/cafedipreto)
