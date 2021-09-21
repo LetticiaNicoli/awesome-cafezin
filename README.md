@@ -32,6 +32,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Coffee Lab | [Site](http://loja.coffeelab.com.br/) | 🇧🇷 | ✅ |
 | Cupping Café | [Site](https://cuppingcafe.com.br/) | 🇧🇷 | ✅ |
 | Dude Co. | [Site](https://www.dudecompany.com.br/) | 🇧🇷 | ✅ |
+| Fora da Lei | [Instagram](https://www.instagram.com/foradalei_cafe/) | SP | ✅ |
 | Grab a Bag! | [Instagram](https://instagram.com/grababag_coffee) | SP | ❌ |
 | Isso é Café | [Instagram](https://www.instagram.com/issoecafe) | SP | ❌ |
 | KOF - King of The Fork | [Site](https://www.kingofthefork.com.br/) | SP | ❌ |
