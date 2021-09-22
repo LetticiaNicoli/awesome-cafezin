@@ -30,6 +30,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Clemente Café | [Instagram](https://www.instagram.com/clementecafe.sp/) | SP | ✅ |
 | Coffee & Joy | [Site](https://coffeeandjoy.com.br/) | 🇧🇷 | ✅ |
 | Coffee Lab | [Site](http://loja.coffeelab.com.br/) | 🇧🇷 | ✅ |
+| Crio | [Site](https://www.crio.delivery/) | 🇧🇷 | ✅ |
 | Cupping Café | [Site](https://cuppingcafe.com.br/) | 🇧🇷 | ✅ |
 | Dude Co. | [Site](https://www.dudecompany.com.br/) | 🇧🇷 | ✅ |
 | Fora da Lei | [Instagram](https://www.instagram.com/foradalei_cafe/) | SP | ✅ |
