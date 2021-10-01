@@ -19,6 +19,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 
 |  	| Link    	| Entrega    	| Acessórios para preparo? |
 |-  |---        |:---:          |:---:
+| 4BEANS Coffee Co. | [Site](https://www.4beanscoffeeco.com.br/) | 🇧🇷 | ❌ |
 | Acervo Café | [Site](https://www.acervocafe.com.br/) | 🇧🇷 | ❌ |
 | Astrounauta Café | [Instagram](https://www.instagram.com/astronautacafe/) | SP | ✅ |
 | Blackcup Coffee | [Instagram](https://www.instagram.com/blackcup.cafe/) | SP | ❌ |
@@ -93,6 +94,7 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - 💰 [Senac Formação de Barista](https://www.sp.senac.br/cursos-livres/curso-de-formacao-de-barista--preparo-e-servico-de-cafe)
 - 💰 [Um Coffee Co.](https://www.umcoffeeco.com.br/cursos)
 - 💰 [Wolff Café](https://www.wolffcafe.com.br/cursos)
+- 💰 [4BEANS Coffee Co.](https://www.4beanscoffeeco.com.br/oficinas)
 
 ### **Instagram**
 - [@boramum](https://instagram.com/boramum)
