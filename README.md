@@ -33,7 +33,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Café e Cold Bixo | [Site](https://www.cafeecoldbixo.com.br/) | 🇧🇷 | ✅ |
 | Café Ninho da Águia | [Site](https://www.cafeninhodaaguia.com.br/) | 🇧🇷 | ❌ |
 | Café por Elas | [Site](https://cafeporelas.com.br/) | 🇧🇷 | ❌ |
-| Café Store | [Site](https://www.cafestore.com.br/) | 🇧🇷 | ✅ | ✅ | 
+| Café Store | [Site](https://www.cafestore.com.br/) | 🇧🇷 | ✅ | 
 | Café Torra Clara | [Instagram](https://www.instagram.com/cafe_torra_clara) | SP | ❌ |
 | Catarina Coffee and Love | [Site](https://www.catarinacoffeeandlove.com/) | 🇧🇷 | ✅ |
 | Clemente Café | [Instagram](https://www.instagram.com/clementecafe.sp/) | SP | ✅ |
@@ -70,8 +70,8 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | The Little Coffee Shop | [Site](https://www.thelittlecoffeeshop.com.br/) | SP | ❌ |
 | TEM Café | [Site](https://www.temcafe.com.br/) | 🇧🇷 | ✅ |
 | Tocaya | [Site](https://tocaya.com.br/cafes-e-afins/) | 🇧🇷 | ❌ |
-| Tost | [Instagram](https://www.instagram.com/tostcafe/?hl=en) | BH | 
-| Um Coffee Co. | [Site](https://www.umcoffeeco.com.br/) | 🇧🇷 | ✅ | ✅ | 
+| Tost | [Instagram](https://www.instagram.com/tostcafe/?hl=en) | BH |  ✅ | 
+| Um Coffee Co. | [Site](https://www.umcoffeeco.com.br/) | 🇧🇷 | ✅ |
 | Urbe Café | [Site](https://www.urbecafe.com.br/) | 🇧🇷 | ✅ |
 | Veroo | [Site](https://veroo.com.br/) | 🇧🇷 | ✅ |
 | Wolff Café | [Site](https://www.wolffcafe.com.br/) | 🇧🇷 | ❌ |
