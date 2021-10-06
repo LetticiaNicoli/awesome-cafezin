@@ -27,16 +27,19 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Bogo Café | [Site](https://bogo.cafe/) | SP | ❌ |
 | Borsoi Café | [Instagram](https://www.instagram.com/borsoicafe/) | PE | ✅ |
 | Cafeína Records | [Site](https://cafeinarecords.com/collections/loja-cafeina-records) | SP | ❌ |
+| Café das Amoras | [Instagram](https://www.instagram.com/cafedasamoras) | 🇧🇷 | ❌ |
 | Café Di Preto | [Instagram](https://www.instagram.com/cafedipreto/) | 🇧🇷 | ❌ | 
 | Café Ducoin | [Site](https://cafeducoin.com.br/) | 🇧🇷 | ✅ | 
 | Café e Cold Bixo | [Site](https://www.cafeecoldbixo.com.br/) | 🇧🇷 | ✅ |
 | Café Ninho da Águia | [Site](https://www.cafeninhodaaguia.com.br/) | 🇧🇷 | ❌ |
 | Café por Elas | [Site](https://cafeporelas.com.br/) | 🇧🇷 | ❌ |
+| Café Store | [Site](https://www.cafestore.com.br/) | 🇧🇷 | ✅ | 
 | Café Torra Clara | [Instagram](https://www.instagram.com/cafe_torra_clara) | SP | ❌ |
 | Catarina Coffee and Love | [Site](https://www.catarinacoffeeandlove.com/) | 🇧🇷 | ✅ |
 | Clemente Café | [Instagram](https://www.instagram.com/clementecafe.sp/) | SP | ✅ |
 | Coffee & Joy | [Site](https://coffeeandjoy.com.br/) | 🇧🇷 | ✅ |
 | Coffee Lab | [Site](http://loja.coffeelab.com.br/) | 🇧🇷 | ✅ |
+| Copo Café | [Instagram](https://www.instagram.com/copocafeespecial) | BH | ✅ | 
 | Crio | [Site](https://www.crio.delivery/) | 🇧🇷 | ✅ |
 | Cupping Café | [Site](https://cuppingcafe.com.br/) | 🇧🇷 | ✅ |
 | Dude Co. | [Site](https://www.dudecompany.com.br/) | 🇧🇷 | ✅ |
@@ -67,16 +70,19 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | The Little Coffee Shop | [Site](https://www.thelittlecoffeeshop.com.br/) | SP | ❌ |
 | TEM Café | [Site](https://www.temcafe.com.br/) | 🇧🇷 | ✅ |
 | Tocaya | [Site](https://tocaya.com.br/cafes-e-afins/) | 🇧🇷 | ❌ |
+| Tost | [Instagram](https://www.instagram.com/tostcafe/?hl=en) | BH |  ✅ | 
 | Um Coffee Co. | [Site](https://www.umcoffeeco.com.br/) | 🇧🇷 | ✅ |
 | Urbe Café | [Site](https://www.urbecafe.com.br/) | 🇧🇷 | ✅ |
 | Veroo | [Site](https://veroo.com.br/) | 🇧🇷 | ✅ |
 | Wolff Café | [Site](https://www.wolffcafe.com.br/) | 🇧🇷 | ❌ |
+| Yes Nós Temos Café | [Instagram](https://www.instagram.com/yesnostemoscafe) | 🇧🇷 | ❌ |
 | Zel Café | [Site](https://zelcafe.com.br/loja/) | SP/MG | ❌ |
 
 **Sazonais**
 
 - [São Paulo Coffee Fest](https://saopaulocoffeefest.com.br/)
 - [Coffee Week Brasil](http://www.coffeeweekbrasil.com.br/)
+- [Semana Internacional do Café](https://semanainternacionaldocafe.com.br/) 
 
 ## Lugares para conhecer  
 Querendo conhecer novos lugares para tomar aquele cafezin:  
