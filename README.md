@@ -20,7 +20,9 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 |  	| Link    	| Entrega    	| Acessórios para preparo? |
 |-  |---        |:---:          |:---:
 | 4BEANS Coffee Co. | [Site](https://www.4beanscoffeeco.com.br/) | 🇧🇷 | ❌ |
+| Academia do Café| [Site](https://www.academiadocafe.com.br/) | 🇧🇷 | ✅ |
 | Acervo Café | [Site](https://www.acervocafe.com.br/) | 🇧🇷 | ❌ |
+| Amika CoffeeHouse| [Site](https://amikacoffeehouse.com.br/) | 🇧🇷 | ✅ |
 | Astrounauta Café | [Instagram](https://www.instagram.com/astronautacafe/) | SP | ✅ |
 | Blackcup Coffee | [Instagram](https://www.instagram.com/blackcup.cafe/) | SP | ❌ |
 | Brazuca Coffee | [Site](https://www.brazucacoffee.com.br/cafes) | 🇧🇷 | ❌ |
@@ -45,15 +47,19 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Dude Co. | [Site](https://www.dudecompany.com.br/) | 🇧🇷 | ✅ |
 | Fora da Lei | [Instagram](https://www.instagram.com/foradalei_cafe/) | SP | ✅ |
 | Grab a Bag! | [Instagram](https://instagram.com/grababag_coffee) | SP | ❌ |
+| HM Food Café | [Site](https://www.hmfoodcafe.com.br/) | SP | ❌ |
+| Inteligenza Cafés Especiais | [Instagram](https://www.instagram.com/intelligenzabh/) | 🇧🇷 | ❌ |
 | Isso é Café | [Instagram](https://www.instagram.com/issoecafe) | SP | ❌ |
 | KOF - King of The Fork | [Site](https://www.kingofthefork.com.br/) | SP | ❌ |
 | Lucca Cafés Especiais | [Site](https://luccacafesespeciais.com.br/) | 🇧🇷 | ❌ |
+| Mercado Sehat | [Instagram](https://www.instagram.com/mercadosehat/) | SC | ❌ |
 | MIM Cafeteria | [Instagram](https://www.instagram.com/mimcafeteria/) | PR | ❌ |
 | Moka Clube | [Site](https://www.mokaclube.com.br/) | 🇧🇷 | ✅ |
 | Mono Café | [Site](https://cafemono.com.br/) | SP | ❌ |
 | O Cabral Café | [Site](https://ocabral.com/) | 🇧🇷 | ✅ |
 | OOP Café | [Site](https://oop.cafe/loja/) | 🇧🇷 | ✅ |
 | Pato Rei | [Instagram](https://www.instagram.com/patoreisp/) | SP | ❌ |
+| Por um Punhado de Dólares | [Instagram](https://www.instagram.com/porumpunhadodedolares/) | SP | ❌ |
 | Pura Caffeina | [Site](https://www.puracaffeina.com.br/) | 🇧🇷 | ❌ |
 | Preciosa Curadoria | [Instagram](https://www.instagram.com/preciosacuradoria/) | SP | ❌ |
 | Roast Cafés | [Site](https://roastcafes.com/) | 🇧🇷 | ❌ |
@@ -71,6 +77,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | TEM Café | [Site](https://www.temcafe.com.br/) | 🇧🇷 | ✅ |
 | Tocaya | [Site](https://tocaya.com.br/cafes-e-afins/) | 🇧🇷 | ❌ |
 | Tost | [Instagram](https://www.instagram.com/tostcafe/?hl=en) | BH |  ✅ | 
+| True Coffee Inc | [Site](https://www.truecoffeeinc.com.br/) | SP |  ✅ | 
 | Um Coffee Co. | [Site](https://www.umcoffeeco.com.br/) | 🇧🇷 | ✅ |
 | Urbe Café | [Site](https://www.urbecafe.com.br/) | 🇧🇷 | ✅ |
 | Veroo | [Site](https://veroo.com.br/) | 🇧🇷 | ✅ |
@@ -95,6 +102,8 @@ Dá uma olhadinha aqui:
 Querendo aprender mais esse mundão de cafés, consuma conteúdos em **português**:  
 
 ### **Cursos**
+- 💰 [Academia do Café](https://www.academiadocafe.com.br/)
+- 💰 [Amika CoffeeHouse](http://amikacoffeehouse.com.br/categoria-produto/cursos/)
 - 💰 [Oficina do Barista](https://www.oficinadobarista.com.br/)
 - 💰 [Coffee Lab](http://loja.coffeelab.com.br/escola-ct-8cf3c)
 - 💰 [Senac Formação de Barista](https://www.sp.senac.br/cursos-livres/curso-de-formacao-de-barista--preparo-e-servico-de-cafe)
