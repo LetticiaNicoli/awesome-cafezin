@@ -22,6 +22,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | 4BEANS Coffee Co. | [Site](https://www.4beanscoffeeco.com.br/) | 🇧🇷 | ❌ |
 | Academia do Café| [Site](https://www.academiadocafe.com.br/) | 🇧🇷 | ✅ |
 | Acervo Café | [Site](https://www.acervocafe.com.br/) | 🇧🇷 | ❌ |
+| Amika CoffeeHouse| [Site](https://amikacoffeehouse.com.br/) | 🇧🇷 | ✅ |
 | Astrounauta Café | [Instagram](https://www.instagram.com/astronautacafe/) | SP | ✅ |
 | Blackcup Coffee | [Instagram](https://www.instagram.com/blackcup.cafe/) | SP | ❌ |
 | Brazuca Coffee | [Site](https://www.brazucacoffee.com.br/cafes) | 🇧🇷 | ❌ |
@@ -101,6 +102,7 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 
 ### **Cursos**
 - 💰 [Academia do Café](https://www.academiadocafe.com.br/)
+- 💰 [Amika CoffeeHouse](http://amikacoffeehouse.com.br/categoria-produto/cursos/)
 - 💰 [Oficina do Barista](https://www.oficinadobarista.com.br/)
 - 💰 [Coffee Lab](http://loja.coffeelab.com.br/escola-ct-8cf3c)
 - 💰 [Senac Formação de Barista](https://www.sp.senac.br/cursos-livres/curso-de-formacao-de-barista--preparo-e-servico-de-cafe)
