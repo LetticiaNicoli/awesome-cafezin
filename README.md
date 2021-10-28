@@ -46,8 +46,10 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Cupping Café | [Site](https://cuppingcafe.com.br/) | 🇧🇷 | ✅ |
 | Dude Co. | [Site](https://www.dudecompany.com.br/) | 🇧🇷 | ✅ |
 | Fora da Lei | [Instagram](https://www.instagram.com/foradalei_cafe/) | SP | ✅ |
+| Fuzz Cafés | [Site](https://www.fuzzcafes.com.br/) | RJ | ❌ |
 | Grab a Bag! | [Instagram](https://instagram.com/grababag_coffee) | SP | ❌ |
 | HM Food Café | [Site](https://www.hmfoodcafe.com.br/) | SP | ❌ |
+| Il Barista | [Site](https://www.ilbaristacafes.com.br/) | 🇧🇷 | ✅ |
 | Inteligenza Cafés Especiais | [Instagram](https://www.instagram.com/intelligenzabh/) | 🇧🇷 | ❌ |
 | Isso é Café | [Instagram](https://www.instagram.com/issoecafe) | SP | ❌ |
 | KOF - King of The Fork | [Site](https://www.kingofthefork.com.br/) | SP | ❌ |
@@ -56,6 +58,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | MIM Cafeteria | [Instagram](https://www.instagram.com/mimcafeteria/) | PR | ❌ |
 | Moka Clube | [Site](https://www.mokaclube.com.br/) | 🇧🇷 | ✅ |
 | Mono Café | [Site](https://cafemono.com.br/) | SP | ❌ |
+| No More Bad Coffee | [Site](https://nomorebadcoffee.com.br/collections) | SP | ❌ |
 | O Cabral Café | [Site](https://ocabral.com/) | 🇧🇷 | ✅ |
 | OOP Café | [Site](https://oop.cafe/loja/) | 🇧🇷 | ✅ |
 | Pato Rei | [Instagram](https://www.instagram.com/patoreisp/) | SP | ❌ |
@@ -118,6 +121,7 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - [@mariamion](https://instagram.com/mariamion)
 - [@naxicrinha](https://www.instagram.com/naxicrinha)
 - [@simonedepaulabr](https://instagram.com/simonedepaulabr)
+- [@baristameireles](https://www.instagram.com/baristameireles/)
 
 ### **Livros**
 - 🆓 [Guia de Aeropress pela Campeã Nacional de AeroPress - Ju Félix](https://jufelixcafe.com/ebook-guia-de-aeropress-pela-campea-nacional-de-aeropress/)
