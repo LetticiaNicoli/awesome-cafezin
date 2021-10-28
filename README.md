@@ -152,6 +152,9 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 *Projetos*
 - [Fazedores de Café](https://www.fazedoresdecafe.org/)
 
+*Exposições*
+- [Café Mundo](https://www.cafemundoexpo.com.br/)
+- [Museu do Café](https://www.museudocafe.org.br/)
 
 ## Contribua 
 Tem uma indicação incrível que não está na lista ou alguma melhoria/sugestão 💅?  
