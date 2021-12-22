@@ -74,6 +74,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Social Café Clube | [Site](https://loja.socialcafeclube.com.br/) | 🇧🇷 | ❌ |
 | Sofá Café | [Site](https://www.sofacafe.com.br/shop) | SP | ❌ |
 | Soul Café | [Instagram](https://www.instagram.com/soulcafesp/) | SP | ✅ |
+| Takkø Café | [Instagram](https://www.instagram.com/takkocafesp/) | ❌ | ✅ |
 | Tazza Café | [Instagram](https://www.instagram.com/tazzacafesp/) | SP | ❌ |
 | Tectonica | [Instagram](https://www.instagram.com/tectonica.sp/) | SP | ❌ |
 | The Little Coffee Shop | [Site](https://www.thelittlecoffeeshop.com.br/) | SP | ❌ |
