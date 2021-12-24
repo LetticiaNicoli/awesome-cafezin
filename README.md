@@ -52,6 +52,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Il Barista | [Site](https://www.ilbaristacafes.com.br/) | 🇧🇷 | ✅ |
 | Inteligenza Cafés Especiais | [Instagram](https://www.instagram.com/intelligenzabh/) | 🇧🇷 | ❌ |
 | Isso é Café | [Instagram](https://www.instagram.com/issoecafe) | SP | ❌ |
+| Kaffe | [Instagram](https://www.instagram.com/kaffe.tt/) | PE | ✅ |
 | KOF - King of The Fork | [Site](https://www.kingofthefork.com.br/) | SP | ❌ |
 | Lucca Cafés Especiais | [Site](https://luccacafesespeciais.com.br/) | 🇧🇷 | ❌ |
 | Mercado Sehat | [Instagram](https://www.instagram.com/mercadosehat/) | SC | ❌ |
