@@ -62,6 +62,8 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | No More Bad Coffee | [Site](https://nomorebadcoffee.com.br/collections) | SP | ❌ |
 | O Cabral Café | [Site](https://ocabral.com/) | 🇧🇷 | ✅ |
 | OOP Café | [Site](https://oop.cafe/loja/) | 🇧🇷 | ✅ |
+| Orfeu | [Site](https://loja.cafeorfeu.com.br/) | 🇧🇷 | ✅ |
+| Ovelha Negra | [Site](https://www.ovelhanegracafes.com/) | 🇧🇷 | ✅ |
 | Pato Rei | [Instagram](https://www.instagram.com/patoreisp/) | SP | ❌ |
 | Por um Punhado de Dólares | [Instagram](https://www.instagram.com/porumpunhadodedolares/) | SP | ❌ |
 | Pura Caffeina | [Site](https://www.puracaffeina.com.br/) | 🇧🇷 | ❌ |
