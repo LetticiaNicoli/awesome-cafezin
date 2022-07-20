@@ -44,6 +44,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Copo Café | [Instagram](https://www.instagram.com/copocafeespecial) | BH | ✅ | 
 | Crio | [Site](https://www.crio.delivery/) | 🇧🇷 | ✅ |
 | Cupping Café | [Site](https://cuppingcafe.com.br/) | 🇧🇷 | ✅ |
+| Curto Café | [Instagram](https://www.instagram.com/curtocafe) | RJ | ❌ |
 | Dude Co. | [Site](https://www.dudecompany.com.br/) | 🇧🇷 | ✅ |
 | Fora da Lei | [Instagram](https://www.instagram.com/foradalei_cafe/) | SP | ✅ |
 | Fuzz Cafés | [Site](https://www.fuzzcafes.com.br/) | RJ | ❌ |
