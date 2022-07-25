@@ -49,6 +49,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Fora da Lei | [Instagram](https://www.instagram.com/foradalei_cafe/) | SP | ✅ |
 | Fuzz Cafés | [Site](https://www.fuzzcafes.com.br/) | RJ | ❌ |
 | Grab a Bag! | [Instagram](https://instagram.com/grababag_coffee) | SP | ❌ |
+| Grão Café | [Site](https://www.graocafe.com.br/) | 🇧🇷 | ✅ |
 | HM Food Café | [Site](https://www.hmfoodcafe.com.br/) | SP | ❌ |
 | Il Barista | [Site](https://www.ilbaristacafes.com.br/) | 🇧🇷 | ✅ |
 | Inteligenza Cafés Especiais | [Instagram](https://www.instagram.com/intelligenzabh/) | 🇧🇷 | ❌ |
