@@ -89,6 +89,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Um Coffee Co. | [Site](https://www.umcoffeeco.com.br/) | 🇧🇷 | ✅ |
 | Urbe Café | [Site](https://www.urbecafe.com.br/) | 🇧🇷 | ✅ |
 | Veroo | [Site](https://veroo.com.br/) | 🇧🇷 | ✅ |
+| Virginia Coffee Roasters | [Site](https://www.virginiaroasters.com.br/) | 🇧🇷 | ❌ |
 | Wolff Café | [Site](https://www.wolffcafe.com.br/) | 🇧🇷 | ❌ |
 | Yes Nós Temos Café | [Instagram](https://www.instagram.com/yesnostemoscafe) | 🇧🇷 | ❌ |
 | Zel Café | [Site](https://zelcafe.com.br/loja/) | SP/MG | ❌ |
