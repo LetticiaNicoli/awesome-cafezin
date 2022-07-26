@@ -124,6 +124,7 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - [@diariodeumcoffeelover](https://www.instagram.com/diariodeumcoffeelover)
 - [@fabianobarista](https://www.instagram.com/fabianobarista/)
 - [@mariamion](https://instagram.com/mariamion)
+- [@nao_sou_barista](https://www.instagram.com/nao_sou_barista/)
 - [@naxicrinha](https://www.instagram.com/naxicrinha)
 - [@simonedepaulabr](https://instagram.com/simonedepaulabr)
 - [@baristameireles](https://www.instagram.com/baristameireles/)
@@ -151,6 +152,7 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - [Coffee and Joy](https://www.youtube.com/c/CoffeeAndJoy)
 - [Mais Café, Por Favor!](https://www.youtube.com/channel/UCEm09So0lW2wOmdMsCc26dQ/videos)
 - [Lucas Barista](https://www.youtube.com/c/lucasbarista)
+- [Não Sou Barista](https://www.youtube.com/c/N%C3%A3oSouBarista)
 - [Sabadeira Cafezeira](https://www.youtube.com/c/MariaMion)
 - [Unique Cafés](https://www.youtube.com/c/UniqueCafésOficial)
 
