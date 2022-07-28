@@ -102,23 +102,28 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 
 - [São Paulo Coffee Fest](https://saopaulocoffeefest.com.br/)
 - [Coffee Week Brasil](http://www.coffeeweekbrasil.com.br/)
-- [Semana Internacional do Café](https://semanainternacionaldocafe.com.br/) 
+- [Semana Internacional do Café](https://semanainternacionaldocafe.com.br/)
 
-## Lugares para conhecer  
-Querendo conhecer novos lugares para tomar aquele cafezin:  
+## Lugares para conhecer
+
+Querendo conhecer novos lugares para tomar aquele cafezin:
 
 ### **São Paulo**
+
 Dá uma olhadinha aqui:
 [https://goo.gl/maps/qBA1nYL5FbnmAAWG6](https://goo.gl/maps/qBA1nYL5FbnmAAWG6)
 
 ## Aprender mais sobre o assunto
-Querendo aprender mais esse mundão de cafés, consuma conteúdos em **português**:  
+
+Querendo aprender mais esse mundão de cafés, consuma conteúdos em **português**:
 
 ### **Cursos**
+
 - 💰 [Academia do Café](https://www.academiadocafe.com.br/)
 - 💰 [Amika CoffeeHouse](http://amikacoffeehouse.com.br/categoria-produto/cursos/)
 - 💰 [Oficina do Barista](https://www.oficinadobarista.com.br/)
 - 💰 [Coffee Lab](http://loja.coffeelab.com.br/escola-ct-8cf3c)
+- 💰 [Cuesta Café](https://cuestacafe.com.br/workshop-na-fazenda/)
 - 💰 [Senac Formação de Barista](https://www.sp.senac.br/cursos-livres/curso-de-formacao-de-barista--preparo-e-servico-de-cafe)
 - 💰 [Um Coffee Co.](https://www.umcoffeeco.com.br/cursos)
 - 💰 [Wolff Café](https://www.wolffcafe.com.br/cursos)
