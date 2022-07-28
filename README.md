@@ -144,11 +144,13 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - [@simonedepaulabr](https://instagram.com/simonedepaulabr)
 
 ### **Livros**
+
 - 🆓 [Guia de Aeropress pela Campeã Nacional de AeroPress - Ju Félix](https://jufelixcafe.com/ebook-guia-de-aeropress-pela-campea-nacional-de-aeropress/)
 - 💰 [Coffee com Tim Wendelboe - Tim Wendelboe e Isabela Raposeiras](http://loja.coffeelab.com.br/pd-76e6af-livro-coffee-com-tim-wendelboe.html?ct=2a2d99&p=1&s=1)
 - 💰 [O Livro da Barista - Isabela Raposeiras](http://loja.coffeelab.com.br/pd-884ce2-o-livro-da-barista.html)
 
 ### **Tik Tok**
+
 - [@amandabaristaa](https://vm.tiktok.com/ZMRxd5VLN/)
 - [@cafeparaviagem](https://vm.tiktok.com/ZMRxdxmgg/)
 - [@coffeeandjoy](https://vm.tiktok.com/ZMRxdyBe3/)
@@ -156,31 +158,39 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - [@baristamarcelo](https://vm.tiktok.com/ZMRCeQjUS/)
 
 ### **Twitter**
+
 - [@cafedipreto](https://twitter.com/cafedipreto)
 - [@RevistaEspresso](https://twitter.com/RevistaEspresso)
 - [@cafepoint](https://twitter.com/cafepoint)
-- [@PuraCaffeina_](https://twitter.com/PuraCaffeina_)
+- [@PuraCaffeina\_](https://twitter.com/PuraCaffeina_)
 - [@cafe_store](https://twitter.com/cafe_store)
 
 ### **Youtube**
+
 - [Coffee and Joy](https://www.youtube.com/c/CoffeeAndJoy)
-- [Mais Café, Por Favor!](https://www.youtube.com/channel/UCEm09So0lW2wOmdMsCc26dQ/videos)
 - [Lucas Barista](https://www.youtube.com/c/lucasbarista)
+- [Mais Café, Por Favor!](https://www.youtube.com/channel/UCEm09So0lW2wOmdMsCc26dQ/videos)
 - [Não Sou Barista](https://www.youtube.com/c/N%C3%A3oSouBarista)
+- [O Cafezista](https://www.youtube.com/channel/UCOSqvPHnjAbU9wwbBoweyNQ)
 - [Sabadeira Cafezeira](https://www.youtube.com/c/MariaMion)
 - [Unique Cafés](https://www.youtube.com/c/UniqueCafésOficial)
 
 ### **Mais**
-*Campeonatos*
-- [Campeonato de AeroPress BR](https://www.campeonatodeaeropress.com/)  
 
-*Projetos*
+_Campeonatos_
+
+- [Campeonato de AeroPress BR](https://www.campeonatodeaeropress.com/)
+
+_Projetos_
+
 - [Fazedores de Café](https://www.fazedoresdecafe.org/)
 
-*Exposições*
+_Exposições_
+
 - [Café Mundo](https://www.cafemundoexpo.com.br/)
 - [Museu do Café](https://www.museudocafe.org.br/)
 
-## Contribua 
+## Contribua
+
 Tem uma indicação incrível que não está na lista ou alguma melhoria/sugestão 💅?  
 Veja [como contribuir](CONTRIBUTING.md). Contribuições são sempre bem vindas 🤎
