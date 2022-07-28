@@ -4,96 +4,99 @@
 
 # awesome cafezin [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Lista ✨incrível✨ para você que quer tomar um bom cafezin em casa, conhecer cafeterias por aí, aprender sobre o assunto e ter novas experiências ☕️ 
+> Lista ✨incrível✨ para você que quer tomar um bom cafezin em casa, conhecer cafeterias por aí, aprender sobre o assunto e ter novas experiências ☕️
+
 ---
 
 ## Conteúdos
+
 - [Onde comprar cafés e acessórios](#onde-comprar-cafés-eou-acessórios)
 - [Cafeterias para conhecer](#lugares-para-conhecer)
 - [Aprender mais sobre o assunto](#aprender-mais-sobre-o-assunto)
 - [Contribua](#Contribua)
 
-## Onde comprar cafés e/ou acessórios  
+## Onde comprar cafés e/ou acessórios
 
-Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você:  
+Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você:
 
-|  	| Link    	| Entrega    	| Acessórios para preparo? |
-|-  |---        |:---:          |:---:
-| 4BEANS Coffee Co. | [Site](https://www.4beanscoffeeco.com.br/) | 🇧🇷 | ❌ |
-| Academia do Café| [Site](https://www.academiadocafe.com.br/) | 🇧🇷 | ✅ |
-| Acervo Café | [Site](https://www.acervocafe.com.br/) | 🇧🇷 | ❌ |
-| Amika CoffeeHouse| [Site](https://amikacoffeehouse.com.br/) | 🇧🇷 | ✅ |
-| Astrounauta Café | [Instagram](https://www.instagram.com/astronautacafe/) | SP | ✅ |
-| Blackcup Coffee | [Instagram](https://www.instagram.com/blackcup.cafe/) | SP | ❌ |
-| Brazuca Coffee | [Site](https://www.brazucacoffee.com.br/cafes) | 🇧🇷 | ❌ |
-| Bogo Café | [Site](https://bogo.cafe/) | SP | ❌ |
-| Borsoi Café | [Instagram](https://www.instagram.com/borsoicafe/) | PE | ✅ |
-| Cafeína Records | [Site](https://cafeinarecords.com/collections/loja-cafeina-records) | SP | ❌ |
-| Café das Amoras | [Instagram](https://www.instagram.com/cafedasamoras) | 🇧🇷 | ❌ |
-| Café Di Preto | [Instagram](https://www.instagram.com/cafedipreto/) | 🇧🇷 | ❌ | 
-| Café Ducoin | [Site](https://cafeducoin.com.br/) | 🇧🇷 | ✅ | 
-| Café e Cold Bixo | [Site](https://www.cafeecoldbixo.com.br/) | 🇧🇷 | ✅ |
-| Café Ninho da Águia | [Site](https://www.cafeninhodaaguia.com.br/) | 🇧🇷 | ❌ |
-| Café por Elas | [Site](https://cafeporelas.com.br/) | 🇧🇷 | ❌ |
-| Café Store | [Site](https://www.cafestore.com.br/) | 🇧🇷 | ✅ | 
-| Café Torra Clara | [Instagram](https://www.instagram.com/cafe_torra_clara) | SP | ❌ |
-| Catarina Coffee and Love | [Site](https://www.catarinacoffeeandlove.com/) | 🇧🇷 | ✅ |
-| Clemente Café | [Instagram](https://www.instagram.com/clementecafe.sp/) | SP | ✅ |
-| Coffee & Joy | [Site](https://coffeeandjoy.com.br/) | 🇧🇷 | ✅ |
-| Coffee Lab | [Site](http://loja.coffeelab.com.br/) | 🇧🇷 | ✅ |
-| Copo Café | [Instagram](https://www.instagram.com/copocafeespecial) | BH | ✅ | 
-| Crio | [Site](https://www.crio.delivery/) | 🇧🇷 | ✅ |
-| Cupping Café | [Site](https://cuppingcafe.com.br/) | 🇧🇷 | ✅ |
-| Curto Café | [Instagram](https://www.instagram.com/curtocafe) | RJ | ❌ |
-| Dude Co. | [Site](https://www.dudecompany.com.br/) | 🇧🇷 | ✅ |
-| Fora da Lei | [Instagram](https://www.instagram.com/foradalei_cafe/) | SP | ✅ |
-| Fuzz Cafés | [Site](https://www.fuzzcafes.com.br/) | RJ | ❌ |
-| Grab a Bag! | [Instagram](https://instagram.com/grababag_coffee) | SP | ❌ |
-| Grão Café | [Site](https://www.graocafe.com.br/) | 🇧🇷 | ✅ |
-| HM Food Café | [Site](https://www.hmfoodcafe.com.br/) | SP | ❌ |
-| Il Barista | [Site](https://www.ilbaristacafes.com.br/) | 🇧🇷 | ✅ |
-| Inteligenza Cafés Especiais | [Instagram](https://www.instagram.com/intelligenzabh/) | 🇧🇷 | ❌ |
-| Isso é Café | [Instagram](https://www.instagram.com/issoecafe) | SP | ❌ |
-| Kaffe | [Instagram](https://www.instagram.com/kaffe.tt/) | PE | ✅ |
-| KOF - King of The Fork | [Site](https://www.kingofthefork.com.br/) | SP | ❌ |
-| Lucca Cafés Especiais | [Site](https://luccacafesespeciais.com.br/) | 🇧🇷 | ❌ |
-| Mercado Sehat | [Instagram](https://www.instagram.com/mercadosehat/) | SC | ❌ |
-| MIM Cafeteria | [Instagram](https://www.instagram.com/mimcafeteria/) | PR | ❌ |
-| Moka Clube | [Site](https://www.mokaclube.com.br/) | 🇧🇷 | ✅ |
-| Mono Café | [Site](https://cafemono.com.br/) | SP | ❌ |
-| No More Bad Coffee | [Site](https://nomorebadcoffee.com.br/collections) | SP | ❌ |
-| O Cabral Café | [Site](https://ocabral.com/) | 🇧🇷 | ✅ |
-| OOP Café | [Site](https://oop.cafe/loja/) | 🇧🇷 | ✅ |
-| Orfeu | [Site](https://loja.cafeorfeu.com.br/) | 🇧🇷 | ✅ |
-| Ovelha Negra | [Site](https://www.ovelhanegracafes.com/) | 🇧🇷 | ✅ |
-| Pato Rei | [Instagram](https://www.instagram.com/patoreisp/) | SP | ❌ |
-| Por um Punhado de Dólares | [Instagram](https://www.instagram.com/porumpunhadodedolares/) | SP | ❌ |
-| Pura Caffeina | [Site](https://www.puracaffeina.com.br/) | 🇧🇷 | ❌ |
-| Preciosa Curadoria | [Instagram](https://www.instagram.com/preciosacuradoria/) | SP | ❌ |
-| Roast Cafés | [Site](https://roastcafes.com/) | 🇧🇷 | ❌ |
-| Roots Café | [Site](https://www.rootsacaicafe.com.br/shop/) | MT | ✅ |
-| Seleção do Erick | [Site](https://www.selecaodoerick.com/) | 🇧🇷 | ✅ |
-| Selen Coffee | [Site](https://selencafe.com.br/) | 🇧🇷 | ❌ |
-| Sensory Coffee | [Instagram](https://www.instagram.com/sensorycoffeeroasters/) | SP | ❌ |
-| Siriema Coffee | [Site](https://siriemacoffeeroasters.com/loja/) | SP | ❌ |
-| Social Café Clube | [Site](https://loja.socialcafeclube.com.br/) | 🇧🇷 | ❌ |
-| Sofá Café | [Site](https://www.sofacafe.com.br/shop) | SP | ❌ |
-| Soul Café | [Instagram](https://www.instagram.com/soulcafesp/) | SP | ✅ |
-| Takkø Café | [Instagram](https://www.instagram.com/takkocafesp/) | ❌ | ✅ |
-| Tazza Café | [Instagram](https://www.instagram.com/tazzacafesp/) | SP | ❌ |
-| Tectonica | [Instagram](https://www.instagram.com/tectonica.sp/) | SP | ❌ |
-| The Little Coffee Shop | [Site](https://www.thelittlecoffeeshop.com.br/) | SP | ❌ |
-| TEM Café | [Site](https://www.temcafe.com.br/) | 🇧🇷 | ✅ |
-| Tocaya | [Site](https://tocaya.com.br/cafes-e-afins/) | 🇧🇷 | ❌ |
-| Tost | [Instagram](https://www.instagram.com/tostcafe/?hl=en) | BH |  ✅ | 
-| True Coffee Inc | [Site](https://www.truecoffeeinc.com.br/) | SP |  ✅ | 
-| Um Coffee Co. | [Site](https://www.umcoffeeco.com.br/) | 🇧🇷 | ✅ |
-| Urbe Café | [Site](https://www.urbecafe.com.br/) | 🇧🇷 | ✅ |
-| Veroo | [Site](https://veroo.com.br/) | 🇧🇷 | ✅ |
-| Virginia Coffee Roasters | [Site](https://www.virginiaroasters.com.br/) | 🇧🇷 | ❌ |
-| Wolff Café | [Site](https://www.wolffcafe.com.br/) | 🇧🇷 | ❌ |
-| Yes Nós Temos Café | [Instagram](https://www.instagram.com/yesnostemoscafe) | 🇧🇷 | ❌ |
-| Zel Café | [Site](https://zelcafe.com.br/loja/) | SP/MG | ❌ |
+|                             | Link                                                                | Entrega | Acessórios para preparo? |
+| --------------------------- | ------------------------------------------------------------------- | :-----: | :----------------------: |
+| 4BEANS Coffee Co.           | [Site](https://www.4beanscoffeeco.com.br/)                          |   🇧🇷    |            ❌            |
+| Academia do Café            | [Site](https://www.academiadocafe.com.br/)                          |   🇧🇷    |            ✅            |
+| Acervo Café                 | [Site](https://www.acervocafe.com.br/)                              |   🇧🇷    |            ❌            |
+| Amika CoffeeHouse           | [Site](https://amikacoffeehouse.com.br/)                            |   🇧🇷    |            ✅            |
+| Astrounauta Café            | [Instagram](https://www.instagram.com/astronautacafe/)              |   SP    |            ✅            |
+| Blackcup Coffee             | [Instagram](https://www.instagram.com/blackcup.cafe/)               |   SP    |            ❌            |
+| Brazuca Coffee              | [Site](https://www.brazucacoffee.com.br/cafes)                      |   🇧🇷    |            ❌            |
+| Bogo Café                   | [Site](https://bogo.cafe/)                                          |   SP    |            ❌            |
+| Borsoi Café                 | [Instagram](https://www.instagram.com/borsoicafe/)                  |   PE    |            ✅            |
+| Cafeína Records             | [Site](https://cafeinarecords.com/collections/loja-cafeina-records) |   SP    |            ❌            |
+| Café das Amoras             | [Instagram](https://www.instagram.com/cafedasamoras)                |   🇧🇷    |            ❌            |
+| Café Di Preto               | [Instagram](https://www.instagram.com/cafedipreto/)                 |   🇧🇷    |            ❌            |
+| Café Ducoin                 | [Site](https://cafeducoin.com.br/)                                  |   🇧🇷    |            ✅            |
+| Café e Cold Bixo            | [Site](https://www.cafeecoldbixo.com.br/)                           |   🇧🇷    |            ✅            |
+| Café Ninho da Águia         | [Site](https://www.cafeninhodaaguia.com.br/)                        |   🇧🇷    |            ❌            |
+| Café por Elas               | [Site](https://cafeporelas.com.br/)                                 |   🇧🇷    |            ❌            |
+| Café Store                  | [Site](https://www.cafestore.com.br/)                               |   🇧🇷    |            ✅            |
+| Café Torra Clara            | [Instagram](https://www.instagram.com/cafe_torra_clara)             |   SP    |            ❌            |
+| Catarina Coffee and Love    | [Site](https://www.catarinacoffeeandlove.com/)                      |   🇧🇷    |            ✅            |
+| Clemente Café               | [Instagram](https://www.instagram.com/clementecafe.sp/)             |   SP    |            ✅            |
+| Coffee & Joy                | [Site](https://coffeeandjoy.com.br/)                                |   🇧🇷    |            ✅            |
+| Coffee Lab                  | [Site](http://loja.coffeelab.com.br/)                               |   🇧🇷    |            ✅            |
+| Copo Café                   | [Instagram](https://www.instagram.com/copocafeespecial)             |   BH    |            ✅            |
+| Crio                        | [Site](https://www.crio.delivery/)                                  |   🇧🇷    |            ✅            |
+| Cuesta Café                 | [Site](https://www.lojacuestacafe.com.br/)                          |   🇧🇷    |            ✅            |
+| Cupping Café                | [Site](https://cuppingcafe.com.br/)                                 |   🇧🇷    |            ✅            |
+| Curto Café                  | [Instagram](https://www.instagram.com/curtocafe)                    |   RJ    |            ❌            |
+| Dude Co.                    | [Site](https://www.dudecompany.com.br/)                             |   🇧🇷    |            ✅            |
+| Fora da Lei                 | [Instagram](https://www.instagram.com/foradalei_cafe/)              |   SP    |            ✅            |
+| Fuzz Cafés                  | [Site](https://www.fuzzcafes.com.br/)                               |   RJ    |            ❌            |
+| Grab a Bag!                 | [Instagram](https://instagram.com/grababag_coffee)                  |   SP    |            ❌            |
+| Grão Café                   | [Site](https://www.graocafe.com.br/)                                |   🇧🇷    |            ✅            |
+| HM Food Café                | [Site](https://www.hmfoodcafe.com.br/)                              |   SP    |            ❌            |
+| Il Barista                  | [Site](https://www.ilbaristacafes.com.br/)                          |   🇧🇷    |            ✅            |
+| Inteligenza Cafés Especiais | [Instagram](https://www.instagram.com/intelligenzabh/)              |   🇧🇷    |            ❌            |
+| Isso é Café                 | [Instagram](https://www.instagram.com/issoecafe)                    |   SP    |            ❌            |
+| Kaffe                       | [Instagram](https://www.instagram.com/kaffe.tt/)                    |   PE    |            ✅            |
+| KOF - King of The Fork      | [Site](https://www.kingofthefork.com.br/)                           |   SP    |            ❌            |
+| Lucca Cafés Especiais       | [Site](https://luccacafesespeciais.com.br/)                         |   🇧🇷    |            ❌            |
+| Mercado Sehat               | [Instagram](https://www.instagram.com/mercadosehat/)                |   SC    |            ❌            |
+| MIM Cafeteria               | [Instagram](https://www.instagram.com/mimcafeteria/)                |   PR    |            ❌            |
+| Moka Clube                  | [Site](https://www.mokaclube.com.br/)                               |   🇧🇷    |            ✅            |
+| Mono Café                   | [Site](https://cafemono.com.br/)                                    |   SP    |            ❌            |
+| No More Bad Coffee          | [Site](https://nomorebadcoffee.com.br/collections)                  |   SP    |            ❌            |
+| O Cabral Café               | [Site](https://ocabral.com/)                                        |   🇧🇷    |            ✅            |
+| OOP Café                    | [Site](https://oop.cafe/loja/)                                      |   🇧🇷    |            ✅            |
+| Orfeu                       | [Site](https://loja.cafeorfeu.com.br/)                              |   🇧🇷    |            ✅            |
+| Ovelha Negra                | [Site](https://www.ovelhanegracafes.com/)                           |   🇧🇷    |            ✅            |
+| Pato Rei                    | [Instagram](https://www.instagram.com/patoreisp/)                   |   SP    |            ❌            |
+| Por um Punhado de Dólares   | [Instagram](https://www.instagram.com/porumpunhadodedolares/)       |   SP    |            ❌            |
+| Pura Caffeina               | [Site](https://www.puracaffeina.com.br/)                            |   🇧🇷    |            ❌            |
+| Preciosa Curadoria          | [Instagram](https://www.instagram.com/preciosacuradoria/)           |   SP    |            ❌            |
+| Roast Cafés                 | [Site](https://roastcafes.com/)                                     |   🇧🇷    |            ❌            |
+| Roots Café                  | [Site](https://www.rootsacaicafe.com.br/shop/)                      |   MT    |            ✅            |
+| Seleção do Erick            | [Site](https://www.selecaodoerick.com/)                             |   🇧🇷    |            ✅            |
+| Selen Coffee                | [Site](https://selencafe.com.br/)                                   |   🇧🇷    |            ❌            |
+| Sensory Coffee              | [Instagram](https://www.instagram.com/sensorycoffeeroasters/)       |   SP    |            ❌            |
+| Siriema Coffee              | [Site](https://siriemacoffeeroasters.com/loja/)                     |   SP    |            ❌            |
+| Social Café Clube           | [Site](https://loja.socialcafeclube.com.br/)                        |   🇧🇷    |            ❌            |
+| Sofá Café                   | [Site](https://www.sofacafe.com.br/shop)                            |   SP    |            ❌            |
+| Soul Café                   | [Instagram](https://www.instagram.com/soulcafesp/)                  |   SP    |            ✅            |
+| Takkø Café                  | [Instagram](https://www.instagram.com/takkocafesp/)                 |   ❌    |            ✅            |
+| Tazza Café                  | [Instagram](https://www.instagram.com/tazzacafesp/)                 |   SP    |            ❌            |
+| Tectonica                   | [Instagram](https://www.instagram.com/tectonica.sp/)                |   SP    |            ❌            |
+| The Little Coffee Shop      | [Site](https://www.thelittlecoffeeshop.com.br/)                     |   SP    |            ❌            |
+| TEM Café                    | [Site](https://www.temcafe.com.br/)                                 |   🇧🇷    |            ✅            |
+| Tocaya                      | [Site](https://tocaya.com.br/cafes-e-afins/)                        |   🇧🇷    |            ❌            |
+| Tost                        | [Instagram](https://www.instagram.com/tostcafe/?hl=en)              |   BH    |            ✅            |
+| True Coffee Inc             | [Site](https://www.truecoffeeinc.com.br/)                           |   SP    |            ✅            |
+| Um Coffee Co.               | [Site](https://www.umcoffeeco.com.br/)                              |   🇧🇷    |            ✅            |
+| Urbe Café                   | [Site](https://www.urbecafe.com.br/)                                |   🇧🇷    |            ✅            |
+| Veroo                       | [Site](https://veroo.com.br/)                                       |   🇧🇷    |            ✅            |
+| Virginia Coffee Roasters    | [Site](https://www.virginiaroasters.com.br/)                        |   🇧🇷    |            ❌            |
+| Wolff Café                  | [Site](https://www.wolffcafe.com.br/)                               |   🇧🇷    |            ❌            |
+| Yes Nós Temos Café          | [Instagram](https://www.instagram.com/yesnostemoscafe)              |   🇧🇷    |            ❌            |
+| Zel Café                    | [Site](https://zelcafe.com.br/loja/)                                |  SP/MG  |            ❌            |
 
 **Sazonais**
 
