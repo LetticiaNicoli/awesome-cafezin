@@ -130,14 +130,18 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - 💰 [4BEANS Coffee Co.](https://www.4beanscoffeeco.com.br/oficinas)
 
 ### **Instagram**
+
+- [@baristameireles](https://www.instagram.com/baristameireles/)
 - [@boramum](https://instagram.com/boramum)
+- [@cuestacafe](https://www.instagram.com/cuestacafe/)
 - [@diariodeumcoffeelover](https://www.instagram.com/diariodeumcoffeelover)
 - [@fabianobarista](https://www.instagram.com/fabianobarista/)
 - [@mariamion](https://instagram.com/mariamion)
+- [@mariazinhacafe](https://www.instagram.com/mariazinhacafe/)
 - [@nao_sou_barista](https://www.instagram.com/nao_sou_barista/)
 - [@naxicrinha](https://www.instagram.com/naxicrinha)
+- [@ocafezista](https://www.instagram.com/ocafezista/)
 - [@simonedepaulabr](https://instagram.com/simonedepaulabr)
-- [@baristameireles](https://www.instagram.com/baristameireles/)
 
 ### **Livros**
 - 🆓 [Guia de Aeropress pela Campeã Nacional de AeroPress - Ju Félix](https://jufelixcafe.com/ebook-guia-de-aeropress-pela-campea-nacional-de-aeropress/)
