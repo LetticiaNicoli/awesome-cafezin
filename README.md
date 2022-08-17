@@ -73,6 +73,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Por um Punhado de Dólares   | [Instagram](https://www.instagram.com/porumpunhadodedolares/)       |   SP    |            ❌            |
 | Pura Caffeina               | [Site](https://www.puracaffeina.com.br/)                            |   🇧🇷    |            ❌            |
 | Preciosa Curadoria          | [Instagram](https://www.instagram.com/preciosacuradoria/)           |   SP    |            ❌            |
+| Rena Café                   | [Site](https://renacafe.com.br/)                                    |   MG    |            ❌            |
 | Roast Cafés                 | [Site](https://roastcafes.com/)                                     |   🇧🇷    |            ❌            |
 | Roots Café                  | [Site](https://www.rootsacaicafe.com.br/shop/)                      |   MT    |            ✅            |
 | Seleção do Erick            | [Site](https://www.selecaodoerick.com/)                             |   🇧🇷    |            ✅            |
