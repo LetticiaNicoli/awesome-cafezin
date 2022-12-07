@@ -27,10 +27,9 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Amika CoffeeHouse           | [Site](https://amikacoffeehouse.com.br/)                            |   🇧🇷    |            ✅            |
 | Astrounauta Café            | [Instagram](https://www.instagram.com/astronautacafe/)              |   SP    |            ✅            |
 | Blackcup Coffee             | [Instagram](https://www.instagram.com/blackcup.cafe/)               |   SP    |            ❌            |
-| Brazuca Coffee              | [Site](https://www.brazucacoffee.com.br/cafes)                      |   🇧🇷    |            ❌            |
+| Brazuca Coffee              | [Site](https://brazucacoffee.com.br/collections/produtos)           |   🇧🇷    |            ❌            |
 | Bogo Café                   | [Site](https://bogo.cafe/)                                          |   SP    |            ❌            |
 | Borsoi Café                 | [Instagram](https://www.instagram.com/borsoicafe/)                  |   PE    |            ✅            |
-| Cafeína Records             | [Site](https://cafeinarecords.com/collections/loja-cafeina-records) |   SP    |            ❌            |
 | Café das Amoras             | [Instagram](https://www.instagram.com/cafedasamoras)                |   🇧🇷    |            ❌            |
 | Café Di Preto               | [Instagram](https://www.instagram.com/cafedipreto/)                 |   🇧🇷    |            ❌            |
 | Café Ducoin                 | [Site](https://cafeducoin.com.br/)                                  |   🇧🇷    |            ✅            |
@@ -38,13 +37,11 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Café Ninho da Águia         | [Site](https://www.cafeninhodaaguia.com.br/)                        |   🇧🇷    |            ❌            |
 | Café por Elas               | [Site](https://cafeporelas.com.br/)                                 |   🇧🇷    |            ❌            |
 | Café Store                  | [Site](https://www.cafestore.com.br/)                               |   🇧🇷    |            ✅            |
-| Café Torra Clara            | [Instagram](https://www.instagram.com/cafe_torra_clara)             |   SP    |            ❌            |
 | Catarina Coffee and Love    | [Site](https://www.catarinacoffeeandlove.com/)                      |   🇧🇷    |            ✅            |
 | Clemente Café               | [Instagram](https://www.instagram.com/clementecafe.sp/)             |   SP    |            ✅            |
 | Coffee & Joy                | [Site](https://coffeeandjoy.com.br/)                                |   🇧🇷    |            ✅            |
 | Coffee Lab                  | [Site](http://loja.coffeelab.com.br/)                               |   🇧🇷    |            ✅            |
-| Copo Café                   | [Instagram](https://www.instagram.com/copocafeespecial)             |   BH    |            ✅            |
-| Crio                        | [Site](https://www.crio.delivery/)                                  |   🇧🇷    |            ✅            |
+| Crio                        | [Site](https://www.crio.cafe/)                                      |   🇧🇷    |            ✅            |
 | Cuesta Café                 | [Site](https://www.lojacuestacafe.com.br/)                          |   🇧🇷    |            ✅            |
 | Cupping Café                | [Site](https://cuppingcafe.com.br/)                                 |   🇧🇷    |            ✅            |
 | Curto Café                  | [Instagram](https://www.instagram.com/curtocafe)                    |   RJ    |            ❌            |
@@ -60,7 +57,6 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Kaffe                       | [Instagram](https://www.instagram.com/kaffe.tt/)                    |   PE    |            ✅            |
 | KOF - King of The Fork      | [Site](https://www.kingofthefork.com.br/)                           |   SP    |            ❌            |
 | Lucca Cafés Especiais       | [Site](https://luccacafesespeciais.com.br/)                         |   🇧🇷    |            ❌            |
-| Mercado Sehat               | [Instagram](https://www.instagram.com/mercadosehat/)                |   SC    |            ❌            |
 | MIM Cafeteria               | [Instagram](https://www.instagram.com/mimcafeteria/)                |   PR    |            ❌            |
 | Moka Clube                  | [Site](https://www.mokaclube.com.br/)                               |   🇧🇷    |            ✅            |
 | Mono Café                   | [Site](https://cafemono.com.br/)                                    |   SP    |            ❌            |
@@ -71,7 +67,6 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Ovelha Negra                | [Site](https://www.ovelhanegracafes.com/)                           |   🇧🇷    |            ✅            |
 | Pato Rei                    | [Instagram](https://www.instagram.com/patoreisp/)                   |   SP    |            ❌            |
 | Por um Punhado de Dólares   | [Instagram](https://www.instagram.com/porumpunhadodedolares/)       |   SP    |            ❌            |
-| Pura Caffeina               | [Site](https://www.puracaffeina.com.br/)                            |   🇧🇷    |            ❌            |
 | Preciosa Curadoria          | [Instagram](https://www.instagram.com/preciosacuradoria/)           |   SP    |            ❌            |
 | Rena Café                   | [Site](https://renacafe.com.br/)                                    |   MG    |            ❌            |
 | Roast Cafés                 | [Site](https://roastcafes.com/)                                     |   🇧🇷    |            ❌            |
@@ -149,6 +144,10 @@ Querendo aprender mais esse mundão de cafés, consuma conteúdos em **portuguê
 - 🆓 [Guia de Aeropress pela Campeã Nacional de AeroPress - Ju Félix](https://jufelixcafe.com/ebook-guia-de-aeropress-pela-campea-nacional-de-aeropress/)
 - 💰 [Coffee com Tim Wendelboe - Tim Wendelboe e Isabela Raposeiras](http://loja.coffeelab.com.br/pd-76e6af-livro-coffee-com-tim-wendelboe.html?ct=2a2d99&p=1&s=1)
 - 💰 [O Livro da Barista - Isabela Raposeiras](http://loja.coffeelab.com.br/pd-884ce2-o-livro-da-barista.html)
+
+### **Podcast**
+
+- [Pura Caffeina](https://open.spotify.com/show/2PqYaoarYZ6rHBiQAviKLy)
 
 ### **Tik Tok**
 
