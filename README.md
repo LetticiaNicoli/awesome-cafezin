@@ -47,6 +47,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Curto Café                  | [Instagram](https://www.instagram.com/curtocafe)                    |   RJ    |            ❌            |
 | Dude Co.                    | [Site](https://www.dudecompany.com.br/)                             |   🇧🇷    |            ✅            |
 | Fora da Lei                 | [Instagram](https://www.instagram.com/foradalei_cafe/)              |   SP    |            ✅            |
+| Five Roasters               | [Site](https://fiveroasters.com.br)                                 |   RJ    |            ✅            |
 | Fuzz Cafés                  | [Site](https://www.fuzzcafes.com.br/)                               |   RJ    |            ❌            |
 | Grab a Bag!                 | [Instagram](https://instagram.com/grababag_coffee)                  |   SP    |            ❌            |
 | Grão Café                   | [Site](https://www.graocafe.com.br/)                                |   🇧🇷    |            ✅            |
