@@ -40,6 +40,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Catarina Coffee and Love    | [Site](https://www.catarinacoffeeandlove.com/)                      |   🇧🇷    |            ✅            |
 | Clemente Café               | [Instagram](https://www.instagram.com/clementecafe.sp/)             |   SP    |            ✅            |
 | Coffee & Joy                | [Site](https://coffeeandjoy.com.br/)                                |   🇧🇷    |            ✅            |
+| Coffee Five                 | [Site](https://coffeefive.com.br)                                   |   RJ    |            ✅            |
 | Coffee Lab                  | [Site](http://loja.coffeelab.com.br/)                               |   🇧🇷    |            ✅            |
 | Crio                        | [Site](https://www.crio.cafe/)                                      |   🇧🇷    |            ✅            |
 | Cuesta Café                 | [Site](https://www.lojacuestacafe.com.br/)                          |   🇧🇷    |            ✅            |
