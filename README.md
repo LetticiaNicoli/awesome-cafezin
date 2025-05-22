@@ -30,6 +30,7 @@ Querendo provar um cafezin bom e/ou comprar acessórios, essa lista é pra você
 | Brazuca Coffee              | [Site](https://brazucacoffee.com.br/collections/produtos)           |   🇧🇷    |            ❌            |
 | Bogo Café                   | [Site](https://bogo.cafe/)                                          |   SP    |            ❌            |
 | Borsoi Café                 | [Instagram](https://www.instagram.com/borsoicafe/)                  |   PE    |            ✅            |
+| Café ao Leu                 | [Site](http://cafeaoleu.com)                                        |   RJ    |            ✅            |
 | Café das Amoras             | [Instagram](https://www.instagram.com/cafedasamoras)                |   🇧🇷    |            ❌            |
 | Café Di Preto               | [Instagram](https://www.instagram.com/cafedipreto/)                 |   🇧🇷    |            ❌            |
 | Café Ducoin                 | [Site](https://cafeducoin.com.br/)                                  |   🇧🇷    |            ✅            |
